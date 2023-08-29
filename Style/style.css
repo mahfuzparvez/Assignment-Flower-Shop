@@ -105,3 +105,18 @@
 #hotDealDiv{
     text-align: center;
 }
+/* instagram Style */
+#instagramDivText{
+    text-align: center;
+    margin: 80px 0 40px 0;
+}
+#instagramImage {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+#instagramImage img{
+    width: 300px;
+    height: 360px;
+    margin: 0 10px;
+}
