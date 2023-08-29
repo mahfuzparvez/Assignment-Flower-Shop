@@ -123,9 +123,11 @@
 /* Latest Deals Style */
 #dealsSection{
     background-image: url("https://i.ibb.co/qytrLQ7/Rectangle-9.png");
+    background-repeat: no-repeat;
+    background-position: center;
     height: 400px;
-    width: 1100px;
-    margin: 80px auto;
+    /* width: 1100px; */
+    margin: 80px 115px;
 }
 #emailInput {
     width: 500px;
