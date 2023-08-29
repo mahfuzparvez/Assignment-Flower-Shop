@@ -73,7 +73,7 @@
 }
 /* Under the feature image section (icons part) */
 #FeatureIcons{
-    margin: 100px auto;
+    margin: 100px 200px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -111,21 +111,21 @@
     margin: 80px 0 40px 0;
 }
 #instagramImage {
- display: flex;
- align-items: center;
- justify-content: center;
+     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 #instagramImage img{
-    width: 300px;
-    height: 360px;
+    width: 260px;
+    height: 300px;
     margin: 0 10px;
 }
 /* Latest Deals Style */
 #dealsSection{
-    display: cover;
     background-image: url('/Image/Rectangle\ 9.png');
     height: 400px;
-    margin-top: 80px;
+    width: 1100px;
+    margin: 80px auto;
 }
 #emailInput {
     width: 500px;
