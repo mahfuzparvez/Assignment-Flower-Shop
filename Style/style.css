@@ -1,0 +1,73 @@
+.googlefont{
+    font-family: 'Anton', sans-serif;
+}
+/* Common text color */
+.textGrayColor{
+    color: #272727c7;
+}
+/* common button style */
+.btn{
+    padding: 15px 25px;
+    color: white;
+    background-color: #E55473;
+    border: none;
+    border-radius: 5px;
+}
+/* header style */
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 50px 100px;
+}
+/* header p tag style */
+#header p {
+    width: 630px;
+}
+/* header title style */
+#header h2 {
+    font-size: 50px;
+    margin-bottom: 0;
+}
+/* Featured Text style */
+#FeaturedText{
+    text-align: center;
+    margin-top: 100px;
+}
+/* Featured Image style */
+#featuredImagePart {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 200px;
+}
+#featuredImagePart img {
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+}
+#featuredImagePart p {
+    text-align: center;
+    text-decoration: underline;
+}
+#Fimg1{
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #a7216256;
+    border-radius: 150px 150px 0 0;
+}
+#Fimg2{
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #0598a065;
+    border-radius: 150px 150px 0 0;
+}
+#Fimg3{
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #477d1173;
+    border-radius: 150px 150px 0 0;
+}
