@@ -138,3 +138,14 @@
     text-align: center;
     padding-top: 100px;
 }
+/* Footer style */
+#footer{
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: -10px;
+    margin-left: -10px;
+    height: 250px;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+}
