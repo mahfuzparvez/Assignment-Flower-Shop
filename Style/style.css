@@ -90,3 +90,18 @@
 #FeatureIcons p {
     color: #272727d8;
 }
+/* Hot deal Style */
+#hotdeal {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #e554731e;
+}
+#hotdeal img {
+    width: 318px;
+    height: 420px;
+
+}
+#hotDealDiv{
+    text-align: center;
+}
