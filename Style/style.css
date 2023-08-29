@@ -122,7 +122,7 @@
 }
 /* Latest Deals Style */
 #dealsSection{
-    background-image: url('/Image/Rectangle 9.png');
+    background-image: url("../Image/Rectangle\ 9.png");
     height: 400px;
     width: 1100px;
     margin: 80px auto;
