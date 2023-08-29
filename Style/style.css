@@ -71,3 +71,22 @@
     background-color: #477d1173;
     border-radius: 150px 150px 0 0;
 }
+/* Under the feature image section (icons part) */
+#FeatureIcons{
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2727271a;
+    padding-top: 30px;
+}
+#FeatureIcons > div{
+    margin-right: 80px;
+}
+#FeatureIcons > div > div > img{
+    width: 88px;
+    height: 88px;
+}
+#FeatureIcons p {
+    color: #272727d8;
+}
